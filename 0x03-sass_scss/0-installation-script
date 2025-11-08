@@ -1,0 +1,6 @@
+Installed Node.js LTS version from https://nodejs.org
+Opened Command Prompt.
+Verified Node.js installation with 'node -v'.
+Verified npm installation with 'npm -v'.
+Installed SASS globally using 'npm install -g sass'.
+Verified SASS installation with 'sass --version'.
